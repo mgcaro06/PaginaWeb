@@ -1,0 +1,17 @@
+body{
+   background-color: rgb(255, 191, 0);
+   margin-left: 200px;
+   color: rgb(164, 12, 58);
+}
+ul{
+    position: absolute;
+    left: 0px;
+    list-style-type: none;
+}
+li {
+    background-color: rgb(255, 255, 255);
+    color: blueviolet;
+    margin-bottom: 10px;
+    padding: 7px;
+    border-right: solid 14px color(srgb 255 0 255);
+}
